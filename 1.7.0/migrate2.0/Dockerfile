@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/pkg/apiextensions/storageversion/cmd/migrate@sha256:bb95337552b07e1a52d6205a95342317b1b081b6b57ef7764c0d59c466978b6f
