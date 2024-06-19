@@ -1,1 +1,1 @@
-FROM docker.io/arm64v8/spark
+FROM docker.io/library/spark
