@@ -1,1 +1,1 @@
-FROM docker.io/library/spark
+FROM docker.io/library/spark:latest@sha256:682c0707d195b3a8fbc0a888ea91aaea9e4befc8de566aa4625445a430ab55a2
