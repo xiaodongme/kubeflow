@@ -1,1 +1,1 @@
-FROM docker.io/library/postgres:17.4
+FROM docker.io/library/postgres
